@@ -20,10 +20,10 @@ function makeInt(n){
   return makeInt;
 }
 function makeInt(n){
-  return +makeInt;
+  return makeInt;
 }
 function makeInt(n){
-  return ++makeInt;
+  return makeInt;
 }
 preserveDecimal(n)
 preserveDecimal(n)
