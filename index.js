@@ -10,7 +10,9 @@ function multiply(a, b){
 function divide(a, b) {
   return ( a / b);
 }
-inc(n)
+function inc(n){
+  return n++;
+}
 dec(n)
 makeInt(n)
 makeInt(n)
