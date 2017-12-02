@@ -16,7 +16,9 @@ function inc(n){
 function dec(n){
   return --n;
 }
-makeInt(n)
+function makeInt(n){
+  return makeInt;
+}
 makeInt(n)
 makeInt(n)
 preserveDecimal(n)
