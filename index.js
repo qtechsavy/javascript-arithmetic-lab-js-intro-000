@@ -19,7 +19,11 @@ function dec(n){
 function makeInt(n){
   return makeInt;
 }
-makeInt(n)
-makeInt(n)
+function makeInt(n){
+  return +makeInt;
+}
+function makeInt(n){
+  return ++makeInt;
+}
 preserveDecimal(n)
 preserveDecimal(n)
